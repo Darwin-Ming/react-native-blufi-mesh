@@ -1,7 +1,10 @@
+require 'json'
+
+package = JSON.parse(File.read(File.join(__dir__, 'package.json')))
 
 Pod::Spec.new do |s|
   s.name         = "RNBlufiMesh"
-  s.version      = "1.0.0"
+  s.version      = package['version']
   s.summary      = "RNBlufiMesh"
   s.description  = <<-DESC
                   RNBlufiMesh

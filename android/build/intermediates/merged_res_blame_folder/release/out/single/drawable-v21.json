@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\EueApp\\node_modules\\react-native-blufi-mesh\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\lisu\\.gradle\\caches\\transforms-3\\b2c70705f6de1a5008f5582832b2fcf4\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\EueApp\\node_modules\\react-native-blufi-mesh\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\lisu\\.gradle\\caches\\transforms-3\\b2c70705f6de1a5008f5582832b2fcf4\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "D:\\EueApp\\node_modules\\react-native-blufi-mesh\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\lisu\\.gradle\\caches\\transforms-3\\b2c70705f6de1a5008f5582832b2fcf4\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\EueApp\\node_modules\\react-native-blufi-mesh\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\lisu\\.gradle\\caches\\transforms-3\\bab16d82e4ecd6e42bf238eb5dba6873\\transformed\\core-1.1.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\EueApp\\node_modules\\react-native-blufi-mesh\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\lisu\\.gradle\\caches\\transforms-3\\b2c70705f6de1a5008f5582832b2fcf4\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\EueApp\\node_modules\\react-native-blufi-mesh\\android\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\lisu\\.gradle\\caches\\transforms-3\\b2c70705f6de1a5008f5582832b2fcf4\\transformed\\appcompat-1.0.2\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

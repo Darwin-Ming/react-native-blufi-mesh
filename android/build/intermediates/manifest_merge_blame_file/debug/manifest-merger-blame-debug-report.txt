@@ -1,0 +1,30 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.blufimesh" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+7-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:4:5-73
+7-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:4:22-70
+8    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+8-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:5:5-76
+8-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:5:22-73
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:6:5-67
+9-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:6:22-64
+10    <uses-permission android:name="android.permission.BLUETOOTH" />
+10-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:7:5-68
+10-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:7:22-65
+11    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+11-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:8:5-74
+11-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:8:22-71
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:9:5-81
+12-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:9:22-78
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:10:5-78
+13-->D:\Work\project\app\Eue\RN-0.72.4\OEM-RN-Upgrade\rn-upgrade\node_modules\@e-linter\react-native-blufi-mesh\android\src\main\AndroidManifest.xml:10:22-76
+14
+15</manifest>
